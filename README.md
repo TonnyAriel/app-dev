@@ -1,5 +1,5 @@
 #My Favorite Series/Movie
-**Title**: [Title of the Series/Movie]
+**Title**: Title of the Series/Movie
 **Series/Movie**:
 -ONE PIECE
 -That Time I Got Reincarnated as a Slime
